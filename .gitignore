@@ -1,0 +1,29 @@
+# Binaries
+swissarmygo
+*.exe
+*.dll
+*.so
+*.dylib
+bin/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Go
+/coverage.out
+*.test
+
+# Logs
+*.log
+logs/
+
+# Configs
+*.env
+config.yaml
